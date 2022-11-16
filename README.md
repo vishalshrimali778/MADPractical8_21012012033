@@ -1,4 +1,4 @@
-# MADPractical8_21012022022
+# MADPractical8_21012012033
 
 Study: ImageView, Frame by Frame Animation, Twin Animation, Immersive Mode, Display Edge to Edge, SplashScreen, AnimationDrawable, onWindowFocusChanged() Method, AnimationUtils class, loadAnimation() method, setAnimationListener() method, overridePendingTransition() method, finish() method, anim folder in res, convert SVG file to .xml file
 
